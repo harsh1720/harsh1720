@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Manual Testing, E-commerce, Marketplace,**
 
-- 📫 How to reach me **harsh.prowork@gmail.com**
+- 📫 Reach me at **Harsh.prowork@gmail.com & (+33)0652413009**
 
 - ⚡ Fun fact **I started using my first computer at age 7 & Quick Learner in Automation.**
 
