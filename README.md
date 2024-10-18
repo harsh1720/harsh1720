@@ -1,28 +1,36 @@
-## Hi there 👋
+![MasterHead](https://media.licdn.com/dms/image/v2/C4E12AQEhsaIOuMV62w/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1634533856823?e=1734566400&v=beta&t=g_9nDyuVMq-I5tEzLj7w6Ky0oTNaZERsyAKPnA2j2YE)
+<h1 align="center">Hey 👋, I'm Harsh Tamakuwala, Welcome to my profile!</h1>
+<h3 align="center">A passionate Developer and Tester QA.</h3>
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/C5612AQEqCJ2bVPsusw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1638281147218?e=1734566400&v=beta&t=Uks5i1F05MfmB85wq3kbjaQm37YwEBtJi9IFVxGHeTs">
 
-I am a Manual and Automation Tester passionate about ensuring high-quality software through rigorous testing. With experience in manual testing and automation tools, I enjoy diving deep into applications to uncover bugs and improve user experience.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1720&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1720" /> </p>
 
-🔨 Skills & Tools:
-Manual Testing: Writing detailed test cases, performing exploratory testing, and reporting bugs.
-Automation Testing: Experience with Selenium WebDriver, Robot Framework, Playwright, Cypress, and Postman.
-Languages & Frameworks: Java, Python, JUnit, TestNG, pytest, Maven, Gradle.
-Version Control: Git, GitHub.
-CI/CD: Jenkins.
+<p align="left"> <a href="https://twitter.com/harsh_1707" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_1707?logo=twitter&style=for-the-badge" alt="harsh_1707" /></a> </p>
 
-📂 My Repositories:
+- 🔭 I’m currently working on **ERP(Enterprise resource planning)/ CRM, Design and maintain pub-sub to manage message-driven Architecture, Microservices, and client state transactions**
 
-Here are a few repositories showcasing my testing projects:
+- 🌱 I’m currently learning **Selenium web driver, Robot Framework, and Typescript**
 
-Manual Testing Samples: [Link to repository]
-Test cases, bug reports, and exploratory testing documents for a sample project.
+- 💬 Ask me about **Manual Testing, E-commerce, Marketplace,**
 
-Automation Testing with Selenium: [Link to repository]
-Automated test scripts for a sample web application using Selenium WebDriver and JUnit.
-API Testing with Postman: [Link to repository]
-A collection of API tests was written using Postman to test RESTful APIs.
+- 📫 How to reach me **harsh.prowork@gmail.com**
 
-🔍 Featured Projects:
-Project Name: [Link to repository]
-Summary: Automated test suite for an e-commerce web application using Selenium.
-Project Name: [Link to repository]
-Summary: Manual test cases for a mobile application, including functional and regression testing.
+- ⚡ Fun fact **I started using my first computer at age 7 & Quick Learner in Automation.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/harsh_1707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh_1707" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh1720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh1720" height="30" width="40" /></a>
+<a href="https://instagram.com/harsh17t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh17t" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/harsh17796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harsh17796" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harsh17796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh17796" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh1720&show_icons=true&locale=en&layout=compact" alt="harsh1720" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh1720&show_icons=true&locale=en" alt="harsh1720" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh1720&" alt="harsh1720" /></p>
