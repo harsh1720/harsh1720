@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **ERP(Enterprise resource planning)/ CRM, Design and maintain pub-sub to manage message-driven Architecture, Microservices, and client state transactions**
 
-- 🌱 I’m currently learning **Selenium web driver, Robot Framework, and Typescript**
+- 🌱 I’m currently learning **Selenium web driver, Robot Framework, Javascript, Typescript, Node.js, React**
 
-- 💬 Ask me about **Manual Testing, E-commerce, Marketplace,**
+- 💬 Ask me about **AI, Backend developing, Testing, E-commerce, Marketplace,**
 
 - 📫 Reach me at **Harsh.prowork@gmail.com & (+33)0652413009**
 
-- ⚡ Fun fact **I started using my first computer at age 7 & Quick Learner in Automation.**
+- ⚡ Fun fact **I started using my first computer at age 7 & Quick Learner in digital world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
