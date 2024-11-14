@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **ERP(Enterprise resource planning)/ CRM, Design and maintain pub-sub to manage message-driven Architecture, Microservices, and client state transactions**
 
-- 🌱 I’m currently learning **Selenium web driver, Robot Framework, Javascript, Typescript, Node.js, React**
+- 🌱 I’m currently learning **Selenium web driver, Robot Framework, Javascript, Typescript, Node.js, React frameworks, Cloud platforms(AWS(EC2, S3, Lambda), Azure**
 
-- 💬 Ask me about **AI, Backend developing, Testing, E-commerce, Marketplace,**
+- 💬 Ask me about **AI, Backend developing, Testing, E-commerce(Shopify, Magento 2, Google store link), Marketplace(Amazon, Fnac, Veepee)w**
 
 - 📫 Reach me at **Harsh.prowork@gmail.com & (+33)0652413009**
 
