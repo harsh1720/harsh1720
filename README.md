@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/C4E12AQEhsaIOuMV62w/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1634533856823?e=1734566400&v=beta&t=g_9nDyuVMq-I5tEzLj7w6Ky0oTNaZERsyAKPnA2j2YE)
 <h1 align="center">Hey 👋, I'm Harsh Tamakuwala, Welcome to my profile!</h1>
 <h3 align="center">A passionate Developer and Tester QA.</h3>
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/C5612AQEqCJ2bVPsusw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1638281147218?e=1734566400&v=beta&t=Uks5i1F05MfmB85wq3kbjaQm37YwEBtJi9IFVxGHeTs">
+<img align="right" alt="coding" width="400" src="https://www.linkedin.com/in/harsh1720/overlay/background-image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1720&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1720" /> </p>
 
