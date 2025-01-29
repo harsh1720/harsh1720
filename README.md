@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Selenium web driver, Robot Framework, Javascript, Typescript, Node.js, React frameworks, Cloud platforms(AWS(EC2, S3, Lambda), Azure**
 
-- 💬 Ask me about **AI, Backend developing, Testing, E-commerce(Shopify, Magento 2, Google store link), Marketplace(Amazon, Fnac, Veepee)w**
+- 💬 Ask me about **AI, Backend developing, Testing, E-commerce(Shopify, Magento 2, Google store link), Marketplace(Amazon, Fnac, Veepee)**
 
 - 📫 Reach me at **Harsh.prowork@gmail.com & (+33)0652413009**
 
