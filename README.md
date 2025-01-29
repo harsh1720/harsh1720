@@ -1,7 +1,6 @@
-![MasterHead](https://www.linkedin.com/in/harsh1720/overlay/background-image)
 <h1 align="center">Hey 👋, I'm Harsh Tamakuwala, Welcome to my profile!</h1>
 <h3 align="center">A passionate Developer and Tester QA.</h3>
-<img align="right" alt="coding" width="400" src="https://www.linkedin.com/in/harsh1720/overlay/background-image">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1720&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1720" /> </p>
 
