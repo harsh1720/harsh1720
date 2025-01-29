@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/C4E12AQEhsaIOuMV62w/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1634533856823?e=1734566400&v=beta&t=g_9nDyuVMq-I5tEzLj7w6Ky0oTNaZERsyAKPnA2j2YE)
+![MasterHead](https://www.linkedin.com/in/harsh1720/overlay/background-image)
 <h1 align="center">Hey 👋, I'm Harsh Tamakuwala, Welcome to my profile!</h1>
 <h3 align="center">A passionate Developer and Tester QA.</h3>
 <img align="right" alt="coding" width="400" src="https://www.linkedin.com/in/harsh1720/overlay/background-image">
