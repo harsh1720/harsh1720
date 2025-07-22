@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/harsh_1707" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_1707?logo=twitter&style=for-the-badge" alt="harsh_1707" /></a> </p>
 
-- 🔭 I’m currently working for **Embedded system(EV Car Charger)**
+- 🔭 I’m currently working for **Embedded system(EV Car Charger) End to End Test with integration of Payment gateway and backoffice using Playright and Robot Framework.**
 
-- 🌱 I’m currently learning **Playwright, Robot Framework, Typescript, Node.js, React frameworks, Cloud platforms(AWS(EC2, S3, Lambda), Azure**
+- 🌱 I'm currently learning **Playwright Codegen, DevOps, React frameworks, Cloud Computing**
 
-- 💬 Ask me about **AI, Backend developing, Frontend UI Testing, E-commerce(Shopify, Magento 2, Google store link), Marketplace(Amazon, Fnac, Veepee)**
+- 💬 Ask me about **AI, Backend developing, Frontend UI Testing, E-commerce business with Shopify, Magento 2, WooCommerce, Marketplace Amazon, Fnac, Veepee.**
 
 - 📫 Reach me at **Harsh.prowork@gmail.com & (+33)0652413009**
 
