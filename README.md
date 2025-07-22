@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Harsh Tamakuwala, Welcome to my profile!</h1>
-<h3 align="center">A passionate Developer and QA Engineer.</h3>
+<h3 align="center">A Passionate Developer and QA</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1720&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1720" /> </p>
