@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Harsh Tamakuwala, Welcome to my profile!</h1>
+<h1 align="center">Hey 👋, Je suis Harsh Tamakuwala, bienvenue sur mon profil !</h1>
 <h3 align="center">A Passionate Developer and QA</h3>
 
 
